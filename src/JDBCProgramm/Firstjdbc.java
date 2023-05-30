@@ -7,6 +7,9 @@ import java.sql.DriverManager;
 public class Firstjdbc {
 
     //Loading the driver
+
+    // it can be done either by using registerDriver() or forName()
+
     public static void main (String [] args){
 
         // Approach 1
