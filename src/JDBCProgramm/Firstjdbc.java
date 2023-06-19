@@ -21,7 +21,7 @@ public class Firstjdbc {
             System.out.println("Some probllem occured while connecting");
         }
 
-        // Approach 2
+      /*  // Approach 2
 
         try {
             Class.forName("oracle.jdbc.driver.OracleDriver");
@@ -30,6 +30,6 @@ public class Firstjdbc {
         catch (ClassNotFoundException e){
             e.printStackTrace();
         }
-
+*/
     }
 }
